@@ -1,0 +1,33 @@
+DESCRIPTIVE STATISTICS
+
+-- Number of police calls per day
+-- Average number of police calls per day
+-- Police calls by month
+-- Police calls per day of the week
+-- Police calls per hour of the day
+-- Type of calls (top 15)
+
+- SHOOTINGS
+-- Number of police calls per day
+-- Average number of police calls per day with shootings
+-- Police calls by month
+-- Police calls per day of the week
+-- Police calls per hour of the day
+
+- LOCATION OF CALLS
+-- Locations of all calls
+-- Location of calls with shootings
+-- Location of calls for Motor Vehicle Accident Responses on monday mornings (between 6 and 8 A.M.)
+-- Location for different call types
+
+CORRELATIONS BETWEEN ATTRIBUTES
+
+CLUSTERING
+
+
+
+
+
+COLUMNS:
+
+INCIDENT_NUMBER, OFFENSE_CODE, OFFENSE_CODE_GROUP, OFFENSE_DESCRIPTION, DISTRICT, REPORTING_AREA, SHOOTING, OCCURRED_ON_DATE, YEAR, MONTH, DAY_OF_WEEK, HOUR, UCR_PART, STREET, Lat, Long, Location
